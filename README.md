@@ -1,1 +1,1 @@
-# docker-yii2-php7.2
+Apache + PHP 7.2 ready for Yii 2 basic template.
